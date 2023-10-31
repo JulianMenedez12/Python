@@ -1,4 +1,4 @@
-
+# Autor: Brahymer Juleam Mendez Pinzon
 # Coordenadas de las dos casas
 f1=int(input("Ingrese la fila de la primera casa: "))
 c1=int(input("Ingrese la columna de la primera casa: "))
